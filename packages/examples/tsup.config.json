@@ -1,0 +1,6 @@
+{
+    "treeshake": true,
+    "format": "esm",
+    "noExternal": ["@ckb-js-std/core"],
+    "minify": true
+}
